@@ -2,8 +2,8 @@
     "name": "Lab8‑Starter",
     "short_name": "Saumya",
     "description": "Recipe cards PWA for Lab 8",
-    "start_url": ".",
-    "display": "standalone",
+    "start_url": "/index.html",
+    "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#ff8c00",
     "icons": [
